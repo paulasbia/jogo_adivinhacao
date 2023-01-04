@@ -3,9 +3,9 @@
 #include <time.h> 
 
 int main() {
-
+    
     // imprimindo cabecalho bonito do jogo
-    printf("\n\n");
+    printf("\n\n\n");
     printf("          P  /_\\  P                              \n");
     printf("         /_\\_|_|_/_\\                            \n");
     printf("     n_n | ||. .|| | n_n         Bem vindo ao     \n");
