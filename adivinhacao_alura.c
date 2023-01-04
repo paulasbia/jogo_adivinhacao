@@ -4,9 +4,7 @@
 
 int main() {
 
-    printf("oi\n");
-
-     // imprimindo cabecalho bonito do jogo
+    // imprimindo cabecalho bonito do jogo
     printf("\n\n");
     printf("          P  /_\\  P                              \n");
     printf("         /_\\_|_|_/_\\                            \n");
